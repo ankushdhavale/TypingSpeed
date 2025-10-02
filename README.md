@@ -21,7 +21,7 @@ Frontend: React, React Router, Toastify
 
 Backend/Database: Firebase (Auth + Firestore)
 
-Styling: Tailwind CSS / Custom CSS
+Styling: Style Component / Custom CSS / MUI.
 
 Deployment: Vercel
 
